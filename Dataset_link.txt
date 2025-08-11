@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+
+->Download and Extract the dataset 
+->remove the dublicate folder inside the chest_xray folder 
